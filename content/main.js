@@ -46,7 +46,7 @@ export const attributes = {
       {
         btnLink: 'https://behance.com',
         btnText: 'View on Behance',
-        image: '/img/hand.JPEG',
+        image: '/img/book-birthday.jpg',
         title: 'ShopoShopy',
       },
       {
@@ -64,13 +64,13 @@ export const attributes = {
       {
         btnLink: 'https://behance.com',
         btnText: 'View on Behance',
-        image: '/img/project-4.jpeg',
+        image: '/img/solidaritaetsgrantig.jpg',
         title: 'DrawoDrawy',
       },
       {
         btnLink: 'https://behance.com',
         btnText: 'View on Behance',
-        image: '/img/Awkward.png',
+        image: '/img/gold-card.jpg',
         title: 'PagoPagy',
       },
       {
