@@ -52,7 +52,7 @@ export const attributes = {
       {
         btnLink: 'https://behance.com',
         btnText: 'View on Behance',
-        image: '/idiotinnen.JPEG',
+        image: '/img/idiotinnen.JPEG',
         title: 'LogoLogy',
       },
       {
