@@ -5,7 +5,7 @@ export const attributes = {
       link: '/#portfolio',
       text: 'Portfolio',
     },
-    heading: "I'm Paco Cu, and I create",
+    heading: "I'm Maria Valencia, and I create",
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#about', text: 'About me' },
     social: {
@@ -22,22 +22,22 @@ export const attributes = {
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
+    text: 'Taking my first coding steps and trying not to despair.\n',
   },
   features: [
     {
       icon: 'monitor-screenshot',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
-      title: 'UI/UX',
+      text: 'I stare into screens a lot.\n',
+      title: 'coding',
     },
     {
       icon: 'draw',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
-      title: 'Logo Design',
+      text: 'I like getting my fingers full of ink.\n',
+      title: 'calligraphy',
     },
     {
       icon: 'xml',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'Ask me about this in a couple of weeks.\n',
       title: 'Web Development',
     },
   ],
@@ -82,5 +82,5 @@ export const attributes = {
     ],
     title: 'My work',
   },
-  footer: { text: '© John Doe' },
+  footer: { text: '© Maria Valencia Cuberos' },
 };
