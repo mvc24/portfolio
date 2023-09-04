@@ -6,7 +6,7 @@ export const attributes = {
       text: 'Portfolio',
     },
     heading: "I'm Maria Valencia, and I create",
-    image: '/img/hero.jpeg',
+    image: '/img/leaves.JPEG',
     secondButton: { icon: 'whatsapp', link: '/#about', text: 'About me' },
     social: {
       facebook: { link: 'https://facebook.com', show: true },
@@ -14,14 +14,14 @@ export const attributes = {
       linkedin: { link: 'https://linkedin.com', show: true },
     },
     typed: [
-      { text: 'fast websites.' },
-      { text: 'beautiful logos.' },
-      { text: 'great experiences.' },
+      { text: 'very basic websites.' },
+      { text: 'ink scratches & paint blobs.' },
+      { text: 'surprising dishes.' },
     ],
   },
   about: {
     heading: 'Who am I?',
-    image: '/img/about.jpeg',
+    image: '/img/hand.JPEG',
     text: 'Taking my first coding steps and trying not to despair.\n',
   },
   features: [
@@ -32,7 +32,7 @@ export const attributes = {
     },
     {
       icon: 'draw',
-      text: 'I like getting my fingers full of ink.\n',
+      text: 'I like to get my fingers full of ink.\n',
       title: 'calligraphy',
     },
     {
@@ -46,19 +46,19 @@ export const attributes = {
       {
         btnLink: 'https://behance.com',
         btnText: 'View on Behance',
-        image: '/img/project-1.jpeg',
+        image: '/img/hand.JPEG',
         title: 'ShopoShopy',
       },
       {
         btnLink: 'https://behance.com',
         btnText: 'View on Behance',
-        image: '/img/project-2.jpeg',
+        image: '/idiotinnen.JPEG',
         title: 'LogoLogy',
       },
       {
         btnLink: 'https://behance.com',
         btnText: 'View on Behance',
-        image: '/img/project-3.jpeg',
+        image: '/img/marillenknoedel.JPEG',
         title: 'SitoSity',
       },
       {
@@ -70,13 +70,13 @@ export const attributes = {
       {
         btnLink: 'https://behance.com',
         btnText: 'View on Behance',
-        image: '/img/project-5.jpeg',
+        image: '/img/Awkward.png',
         title: 'PagoPagy',
       },
       {
         btnLink: 'https://behance.com',
         btnText: 'View on Behance',
-        image: '/img/project-6.jpeg',
+        image: '/img/brunotello.jpg',
         title: 'UIoUXy',
       },
     ],
